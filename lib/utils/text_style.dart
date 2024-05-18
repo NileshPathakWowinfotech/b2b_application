@@ -39,6 +39,12 @@ import 'package:flutter/material.dart';
   fontWeight: FontWeight.w200,
   fontFamily: 'UbuntuSans_SemiCondensed-Bold',
 ); 
+  TextStyle productsmalllavel7 = TextStyle(
+  fontSize: 13,
+  color: kblack,
+  fontWeight: FontWeight.w400,
+  // fontFamily: 'UbuntuSans_SemiCondensed-Bold',
+); 
 
 
 
